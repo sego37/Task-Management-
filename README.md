@@ -39,7 +39,7 @@ THEN the saved tasks persist
 ```
 
 ## URL 
-](https://sego37.github.io/Task-Management-/)
+https://sego37.github.io/Task-Management-/
 ## Screen Shot
 
 ![Screenshot 2024-04-06 at 11 10 12 AM](https://github.com/sego37/Task-Management-/assets/63138641/b25aff9d-6e08-46a4-a446-8d55e94bbe90)
