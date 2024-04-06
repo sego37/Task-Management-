@@ -1,11 +1,5 @@
 # Task Board 
 
-## Your Task
-
-Create a simple task board application that allows a team to manage project tasks by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
-
-You'll need to use the [Day.js](https://day.js.org/en/) library to work with dates. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
-
 ## Goal
 
 ```md
